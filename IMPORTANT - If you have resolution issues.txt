@@ -1,0 +1,18 @@
+The following is also part of the main Readme, too, but listed here separately for better visibility.
+
+- In Mod Organizer 2, go to the built-in INI editor: Menu "Tools" - "Tool Plugins" - "INI Editor".
+- Select skyrimprefs.ini.
+- Check if your resolution settings are right. These are the "iSize H" and "iSize W" values.
+- Correct them if they are wrong.
+- HIT "SAVE" AT THE BOTTOM OF THE EDITOR - REGARDLESS IF YOU CHANGED ANYTHING OR NOT. ALWAYS HIT SAVE.
+
+This should fix the issue for most if not all users. 
+
+If still have issues after that step, then they may be related too your Windows scaling settings. 
+See this Reddit thread:
+https://www.reddit.com/r/skyrimmods/comments/xi2yza/skyrim_using_windows_dpi_scaling_how_to_fix/
+
+If you're on a high resolution monitor (5k, 4k) but intend to play Skyrim at a lower resolution: for me it has proven good practice to lower your Windows resolution to that resolution before you install GtS with Wabbajack.
+
+If you're on a high resolution monitor (5k, 4k) but intend to play Skyrim at a lower resolution: to deal with that lower your Windows Resolution accordingly before starting Skyrim. It's a minor inconvience, but the the best solution that I found until now. GtS includes tweaking to make SSE Display Settings and Frame Generation work together. However, this leads to the INI setting Fullscreen=1, which you may be used to, to become nonfunctional. This setting is not compatible with Frame Generation.
+
