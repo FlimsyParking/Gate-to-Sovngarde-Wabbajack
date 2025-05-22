@@ -8,7 +8,7 @@ A Skyrim SE Mod Collection by JaySerpa
 
 converted to Wabbajack by Flimsy
 
-Version 0.83.0.0 = V83 of the Collection
+Version 0.83.0.1 = V83 of the Collection
 
 HOMEPAGE
 --------------------------------------------
