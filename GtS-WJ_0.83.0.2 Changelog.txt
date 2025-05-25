@@ -1,0 +1,41 @@
+GATE TO SOVNGARDE
+
+A Skyrim SE Mod Collection by JaySerpa
+
+converted to Wabbajack by Flimsy
+
+CHANGELOG for Version 0.83.0.2 = V83 of the Collection
+
+These are the changes compared to 0.83.0.1:
+
+- After a lot of comparing files with other Modlists and a lot of trial and error, I finally found a possible cause for the resolution issues a lot of users were having. The skyrimprefs.ini was altered accordingly.
+- Rechecked that Volumetric Mists is correctly installed, because for whatever reason I forgot to note the FOMOD options of this mod.
+
+CHANGELOG for Version 0.83.0.1 = V83 of the Collection
+
+These are the changes compared to 0.83.0.0:
+
+- Removed Dylbills Papyrus Functions. This was removed from GtS, but I accidentally kept it.
+
+These are the changes compared to 0.82.0.5:
+
+- Included a fail-safe method that prevents accidentally sorting the Loadorder.
+
+- Included backups of loadorder.txt and modlist.txt. For further informations see the Readme.
+
+
+CHANGELOG for Version 0.82.0.5 = V82 of the Collection
+
+These are the changes compared to the initial Beta (consider that version as "0.82.0.0"):
+
+- Leftover downloads. Some files of previous GtS Versions were still downloaded. This was an oversight. Don't worry, they were only downloaded, not installed. Fixed.
+
+- Forced re-download of CC on first start: don't know why it happened, but it's hopefully now fixed with an INI-setting. BUT REMEMBER to follow the installation instructions and make sure your CC Content is already installed to your base game BEFORE installing GtS WJ.
+
+- Resolution problems: Officially not fixed, but there is a super-easy workaround. Basically just another short step during installation. See the Readme or "IMPORTANT - If you have resolution issues.txt".
+
+- Non-AE Version: I had hoped that I could organize the AE- and Non-AE versions in one download with two profiles. Sadly this obviously doesn't work. They are now 2 separate downloads. Make sure to pick the right one.
+
+- The Rootbuilder install was actually faulty. Don't worry, it didn't have any negative effects. But it's fixed now.
+
+- The Non-AE Version actually contained two AE-only mods by accident. Didn't have any impact since the Non-AE version didn't work anyway. But it's fixed now.

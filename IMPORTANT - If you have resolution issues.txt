@@ -1,5 +1,7 @@
 The following is also part of the main Readme, too, but listed here separately for better visibility.
 
+With the changes in 0.83.0.2, chances are high that the frequent resolution issues are a thing of the past. But I'm leaving this here for the time being, in case users run into any issues with resolution.
+
 - In Mod Organizer 2, go to the built-in INI editor: Menu "Tools" - "Tool Plugins" - "INI Editor".
 - Select skyrimprefs.ini.
 - Check if your resolution settings are right. These are the "iSize H" and "iSize W" values.
