@@ -8,7 +8,7 @@ A Skyrim SE Mod Collection by JaySerpa
 
 converted to Wabbajack by Flimsy
 
-Version 0.83.0.1 = V83 of the Collection
+Version 0.83.0.2 = V83 of the Collection
 
 HOMEPAGE
 --------------------------------------------
@@ -103,6 +103,8 @@ After starting the installation, a window will pop up and ask for you to authori
 
 IMPORTANT 
 --------------------------------------------
+
+With the changes in 0.83.0.2, chances are high that the frequent resolution issues are a thing of the past. But I'm leaving this here for the time being, in case users run into any issues with resolution.
 
 The following is a workaround to prevent RESOLUTION ISSUES, but it's best you do it anyway, even if you don't have such issues.
 
