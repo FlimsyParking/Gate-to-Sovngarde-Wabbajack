@@ -2,13 +2,13 @@ Gate-to-Sovngarde-Wabbajack
 
 Repository for my Wabbajack conversions of the Skyrim SE collection "Gate to Sovngarde" by JaySerpa.
 
-# GATE TO SOVNGARDE
+GATE TO SOVNGARDE
 
 A Skyrim SE Mod Collection by JaySerpa
 
 converted to Wabbajack by Flimsy
 
-Version 0.83.0.2 = V83 of the Collection
+Version 0.89.0.0 = V89 of the Collection
 
 HOMEPAGE
 --------------------------------------------
@@ -82,7 +82,7 @@ INSTALLATION
 
 Download Wabbajack: https://www.wabbajack.org/
 
-Create a new folder called “Wabbajack” in a location outside of the Program Files. Move Wabbajack.exe into this folder and run it. It will check for updates and install them, if there are any.
+Create a new folder called “Wabbajack” in a location outside of the Program Files and outside other "System" directories such as Windows, Desktop, Downloads etc. Move Wabbajack.exe into this folder and run it. It will check for updates and install them, if there are any.
 
 Link your Nexus account in Wabbajack (again: a Premium Membership is highly recommended). Hint: If you activate the premium membership after beginning a Wabbajack install, you can restart Wabbajack to enable automated downloads.
 
@@ -122,7 +122,7 @@ If still have issues after that step, then they may be related to your Windows s
 See this Reddit thread:
 https://www.reddit.com/r/skyrimmods/comments/xi2yza/skyrim_using_windows_dpi_scaling_how_to_fix/
 
-If you're on a high resolution monitor (5k, 4k) but intend to play Skyrim at a lower resolution: to deal with that lower your Windows Resolution accordingly before starting Skyrim. It's a minor inconvience, but the the best solution that I found until now. GtS includes tweaking to make SSE Display Settings and Frame Generation work together. However, this leads to the INI setting Fullscreen=1, which you may be used to, to become unfunctional. This setting is not compatible with Frame Generation.
+If you're on a high resolution monitor (5k, 4k) but intend to play Skyrim at a lower resolution: to deal with that lower your Windows Resolution accordingly before starting Skyrim. It's a minor inconvience, but the the best solution that I found until now. GtS includes tweaking to make SSE Display Settings and Frame Generation work together. However, this leads to the INI setting Fullscreen=1, which you may be used to, to become nonfunctional. This setting is not compatible with Frame Generation.
 
 
 STARTING Gate to Sovngarde
@@ -194,7 +194,8 @@ Credits
 
 All authors of the included mods for their fantastic work.
 
-JaySerpa for terrific mods and for creating Gate to Sovngarde. This is just a humble conversion. It's still 80-90% JaySerpa's work.
+JaySerpa for terrific mods and for creating Gate to Sovngarde. This is just a humble conversion. It's still 90% JaySerpa's work.
 
 All the users on JaySerpa's Discord that helped betatesting this conversion. You provided great feedback and helped me to find solutions for the issues this modlist had in the beginning.
+
 
