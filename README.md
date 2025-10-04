@@ -8,7 +8,7 @@ A Skyrim SE Mod Collection by JaySerpa
 
 converted to Wabbajack by Flimsy
 
-Version 0.89.0.0 = V89 of the Collection
+Version 0.96.0.0 = V96 of the Collection
 
 HOMEPAGE
 --------------------------------------------
@@ -159,6 +159,8 @@ Updating
 
 If GtS receives an update, please check the changelog before doing anything. Always backup your saves or start a new game after updating. Updating is like installing. You only have to make sure that you select the same path and tick the “Overwrite Existing Modlist” button.
 
+IMPORTANT - regarding savegame compatibility: Always keep in mind that updates for the Wabbajack version of GtS will most often include several updates of the Vortex Version (i.e. from V89 straight to V96). Always check the original GtS Changelog for all included updates (i.e. for V90, V91 and so on up to V96) if you want to know if you can keep your savegames or not.
+
 Modification / Customizing GtS
 --------------------------------------------
 
@@ -192,7 +194,7 @@ If there are no search results with notes tagged "*** IMPORTANT ***", then they 
 Credits
 --------------------------------------------
 
-All authors of the included mods for their fantastic work.
+All authors of the included mods for their fantastic work. IMPORTANT: With this MO2 Installation, it's very easy to ENDORSE all the mods and their creators on Nexus, please do so! 
 
 JaySerpa for terrific mods and for creating Gate to Sovngarde. This is just a humble conversion. It's still 90% JaySerpa's work.
 
