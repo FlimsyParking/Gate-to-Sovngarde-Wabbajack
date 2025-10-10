@@ -200,4 +200,10 @@ JaySerpa for terrific mods and for creating Gate to Sovngarde. This is just a hu
 
 All the users on JaySerpa's Discord that helped betatesting this conversion. You provided great feedback and helped me to find solutions for the issues this modlist had in the beginning.
 
+Donating
+--------------------------------------------
+
+NEW: If you want to, you can tip me a coffee under ko-fi.com/flimsymods. I'd be very happy if you do, but please consider that this is still 90% the work of JaySerpa and many more fantastic mod authors. So please consider donating them first, or as well! Thank you :-)
+
+
 
