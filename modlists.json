@@ -9,7 +9,7 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "SFW",
+      "SFW"
     ],
     "nsfw": false,
     "image_contains_title": false,
@@ -33,7 +33,7 @@
 	"TotalSize":202348101248
     },
     "version": "0.96.0"
-  }
+  },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Gate to Sovngarde Non-AE Version",
@@ -44,7 +44,7 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "SFW",
+      "SFW"
     ],
     "nsfw": false,
     "image_contains_title": false,
@@ -70,3 +70,4 @@
     "version": "0.96.0"
   }
 ]
+
