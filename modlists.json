@@ -16,7 +16,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack.webp",
+      "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack_1080p.webp",
       "readme": "https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Gate to Sovngarde Anniversary Edition Upgrade.wabbajack_eef2c388-18a1-4b84-8238-4e8cd4a8e710",
       "machineURL": "GateToSovngarde_WJ_AE",
@@ -51,7 +51,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack.webp",
+      "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack_1080p.webp",
       "readme": "https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Gate to Sovngarde Non-AE Version.wabbajack_e16e5a05-f8e1-4723-ade3-88e90a22ce44",
       "machineURL": "GateToSovngarde_WJ_NonAE",
@@ -70,4 +70,5 @@
     "version": "0.96.0"
   }
 ]
+
 
