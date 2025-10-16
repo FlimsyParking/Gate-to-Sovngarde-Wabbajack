@@ -25,7 +25,7 @@ DISCORD
 
 https://discord.gg/jayserpa
 
-For a descreption of the collection, infos on important features and mods, etc., please refer to the GtS Homepage.
+For a description of the collection, infos on important features and mods, etc., please refer to the GtS Homepage.
 
 
 
@@ -40,8 +40,12 @@ REQUIREMENTS
 
 Skyrim SE 1.6.1170
 
-Anniversary Edition Upgrade Content is optional - this modlist comes in 2 Versions: "Anniversary Edition Upgrade" and "Non-AE Version". 
+IMPORTANT: This modlist comes in 2 stand-alone Versions: "Anniversary Edition Version" and "Non-AE Version". 
+
 Be sure to download the right one!
+
+Anniversary Edition ("AE") refers to the "Anniversary Edition Upgrade" DLC (https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/). 
+Choose one version or the other depending if you have this DLC or not.
 
 For minimum PC specs, please refer to the GtS Homepage.
 
