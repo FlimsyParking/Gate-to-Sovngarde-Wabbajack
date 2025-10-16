@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Gate to Sovngarde AE Version",
-    "description": "Gate to Sovngarde is a love letter to the Skyrim modding community, and I hope you enjoy it as much as I do. \r\n\r\n-JaySerpa",
+    "description": "Gate to Sovngarde is a love letter to the Skyrim modding community, and I hope you enjoy it as much as I do. \r\n\r\n-JaySerpa \r\n\r\nIMPORTANT: This modlist comes in 2 stand-alone Versions: "Anniversary Edition Version" and "Non-AE Version". Be sure to download the right one! \r\n\r\nAnniversary Edition ("AE") refers to the "Anniversary Edition Upgrade" DLC (https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/). Choose one version or the other depending if you have this DLC or not.",
     "author": "JaySerpa - converted to Wabbajack by flimsy",
     "maintainers": [
       "github/FlimsyParking"
@@ -37,7 +37,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Gate to Sovngarde Non-AE Version",
-    "description": "Gate to Sovngarde is a love letter to the Skyrim modding community, and I hope you enjoy it as much as I do. \r\n\r\n-JaySerpa",
+    "description": "Gate to Sovngarde is a love letter to the Skyrim modding community, and I hope you enjoy it as much as I do. \r\n\r\n-JaySerpa \r\n\r\nIMPORTANT: This modlist comes in 2 stand-alone Versions: "Anniversary Edition Version" and "Non-AE Version". Be sure to download the right one! \r\n\r\nAnniversary Edition ("AE") refers to the "Anniversary Edition Upgrade" DLC (https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/). Choose one version or the other depending if you have this DLC or not.",
     "author": "JaySerpa - converted to Wabbajack by flimsy",
     "maintainers": [
       "github/FlimsyParking"
@@ -70,5 +70,6 @@
     "version": "0.96.0"
   }
 ]
+
 
 
