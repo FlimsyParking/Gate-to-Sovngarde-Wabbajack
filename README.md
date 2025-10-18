@@ -75,7 +75,7 @@ Your game needs to be set to English. Playing in another language will break thi
 
 Start a new game: You cannot use an old save with the collection.
 
-Check if you have enough space: Download size is roughly 64GB, but you will need around 121 GB (115 GB for non-AE) on top of that to install the list. Once installed, you may delete the installation files, however this will lead to all of them being downloaded again if the list updates.
+Check if you have enough space: Download size is roughly 73GB, but you will need around 116 GB on top of that to install the list (68 and 111 GB for non-AE). Once installed, you may delete the downloads folder, however this will lead to all of the files being downloaded again if you install an updated version of the list.
 
 You need to have Nexus Premium (highly recommended!): All collections/modlists require premium for automatic installation, otherwise you have to manually install each mod and it'll take you forever. Support for manual installations (without Nexus Premium) is NOT OFFERED. There are simply too many things that can go wrong during manual installations.
 
