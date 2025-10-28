@@ -10,12 +10,22 @@ converted to Wabbajack by Flimsy
 
 Version 0.96.0.0 = V96 of the Collection
 
-HOMEPAGE
+HOMEPAGES
 --------------------------------------------
+
+JaySerpa's Gate to Sovngarde:
 
 https://www.nexusmods.com/games/skyrimspecialedition/collections/qdurkx
 
-CHANGELOG 
+My Modding Projects:
+
+https://ko-fi.com/flimsymods
+
+Github Repository of my Conversion:
+
+https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack
+
+CHANGELOG
 --------------------------------------------
 
 https://docs.google.com/document/d/1PZMxn1GjCr3GBEoSKxsexAaHKq1L1_Z-dQo79-D9XTo/edit?tab=t.0#heading=h.x4qqacrnyjb
@@ -94,7 +104,11 @@ Create a new folder called “GtS-WJ” (or similar, but you NEED to keep it sho
 
 If you're on a high resolution monitor (5k, 4k) but intend to play Skyrim at a lower resolution: for me it has proven good practice to lower your Windows resolution to that resolution before you install GtS with Wabbajack.
 
-Open Wabbajack and click on "Browse lists" then on "Install from disk" (top right corner) and choose the Gate to Sovngarde.wabbajack file you downloaded. You may also doubleclick the Gate to Sovngarde.wabbajack file in Windows Explorer, but for me that doesn't work reliably with the current WJ Version. You can also try to drag&drop the file on wabbajack.exe.
+Open Wabbajack and click on "Browse lists" then either
+
+- check "Non-featured" and navigate to the GtS version (AE or Non-AE, see above) you want and install it. (You may also want to narrow down the search to "Skyrim Special Edition" so that lists for other games aren't displayed.)
+
+- or, if you downloaded from Github or JaySerpa's Discord, click on "Install from disk" (top right corner) and choose the Gate to Sovngarde.wabbajack file you downloaded. You may also doubleclick the Gate to Sovngarde.wabbajack file in Windows Explorer, but for me that doesn't work reliably with the current WJ Version. You can also try to drag&drop the file on wabbajack.exe.
 
 Once the installation window opens, ensure that the “Installation Location” matches the GtS folder you just created. The download location should populate automatically. You can change the download location, e.g. to a standard HDD, to save space on your SSD.
 
@@ -208,6 +222,5 @@ Donating
 --------------------------------------------
 
 NEW: If you want to, you can tip me a coffee under ko-fi.com/flimsymods. I'd be very happy if you do, but please consider that this is still 90% the work of JaySerpa and many more fantastic mod authors. So please consider donating them first, or as well! Thank you :-)
-
 
 
