@@ -75,7 +75,11 @@ Please also refer to the first pinned comment under the video.
 
 IMPORTANT: Make sure to make BACKUPS of files you want to keep (i.e. savegames)!
 
-Run the Skyrim Special Edition launcher through Steam and let it detect your settings, then launch the game. If you have not installed Anniversary Edition content yet, you will be prompted to do so now. If you haven't purchased AE content, still launch the game at least once to make sure it's all working. After that, you can close the game and exit to your desktop.
+Run the Skyrim Special Edition launcher through Steam and let it detect your settings, then launch the game. If you have not installed Anniversary Edition content yet, you will be prompted to do so now. 
+
+PLEASE BE PATIENT AND DO NOT TAB OUT OF SKYRIM DURING THE DOWNLOAD PROCESS. Doing so can lead to unfinished downloads which will break things.
+
+If you haven't purchased AE content, still launch the game at least once to make sure it's all working. After that, you can close the game and exit to your desktop.
 
 Double check that you have the latest Skyrim version on Steam (1.6.1170).
 
@@ -194,6 +198,8 @@ DO NOT DRAG & DROP MODS OR PLUGINS TO OTHER POSITIONS (unless you know what you 
 
 If you messed something up - I've included backups of the original modlist.txt and loadorder.txt. To restore them, press the "Restore Backup" button on top of the modlist or the plugins list. Remember that these backups will eventually get overwritten if you make backups yourself. Also don't change mod or plugin names, the backups are plain text files, they won't recognize changed names and restoring backups will (partly) fail if you change names.
 
+This Modlist only supports the latest Steam Release of Skyrim, however there's a guide how to make it work with the GOG Version here: https://gatetosovngarde.wiki.gg/wiki/GOG_Compatibility#Mod_Organizer_2-0
+
 This Wabbajack version of GtS uses the Stock Game Feature. That means it has a second, separate copy of your Skyrim Installation and will not touch your Steam Skyrim Installation. To learn more about the Stock Game feature I found the following link very helpful:
 https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md
 
@@ -222,5 +228,8 @@ Donating
 --------------------------------------------
 
 NEW: If you want to, you can tip me a coffee under ko-fi.com/flimsymods. I'd be very happy if you do, but please consider that this is still 90% the work of JaySerpa and many more fantastic mod authors. So please consider donating them first, or as well! Thank you :-)
+
+
+
 
 
