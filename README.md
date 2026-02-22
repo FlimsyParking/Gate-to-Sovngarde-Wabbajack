@@ -8,7 +8,7 @@ A Skyrim SE Mod Collection by JaySerpa
 
 converted to Wabbajack by Flimsy
 
-Version 0.96.0.0 = V96 of the Collection
+Version 0.101.0.0 = V101 of the Collection
 
 HOMEPAGES
 --------------------------------------------
@@ -20,6 +20,10 @@ https://www.nexusmods.com/games/skyrimspecialedition/collections/qdurkx
 My Modding Projects:
 
 https://ko-fi.com/flimsymods
+
+GtS Wabbajack Edition on Nexus:
+
+https://www.nexusmods.com/skyrimspecialedition/mods/172373
 
 Github Repository of my Conversion:
 
@@ -36,6 +40,11 @@ DISCORD
 https://discord.gg/jayserpa
 
 For a description of the collection, infos on important features and mods, etc., please refer to the GtS Homepage.
+
+DONATIONS
+--------------------------------------------
+
+NEW: If you want to, you can tip me a coffee under ko-fi.com/flimsymods. I'd be very happy if you do, it would really mean a lot to me! But please consider that this is still 90% the work of JaySerpa and many more fantastic mod authors. So please consider donating them first, or as well! Thank you :-)
 
 
 
@@ -112,7 +121,7 @@ Open Wabbajack and click on "Browse lists" then either
 
 - check "Non-featured" and navigate to the GtS version (AE or Non-AE, see above) you want and install it. (You may also want to narrow down the search to "Skyrim Special Edition" so that lists for other games aren't displayed.)
 
-- or, if you downloaded from Github or JaySerpa's Discord, click on "Install from disk" (top right corner) and choose the Gate to Sovngarde.wabbajack file you downloaded. You may also doubleclick the Gate to Sovngarde.wabbajack file in Windows Explorer, but for me that doesn't work reliably with the current WJ Version. You can also try to drag&drop the file on wabbajack.exe.
+- or, if you downloaded from Nexus, Github or JaySerpa's Discord, click on "Install from disk" (top right corner) and choose the Gate to Sovngarde.wabbajack file you downloaded. You may also doubleclick the Gate to Sovngarde.wabbajack file in Windows Explorer, but for me that doesn't work reliably with the current WJ Version. You can also try to drag&drop the file on wabbajack.exe.
 
 Once the installation window opens, ensure that the “Installation Location” matches the GtS folder you just created. The download location should populate automatically. You can change the download location, e.g. to a standard HDD, to save space on your SSD.
 
@@ -121,12 +130,31 @@ When you’re ready, press the start button.
 After starting the installation, a window will pop up and ask for you to authorize Wabbajack to use your Nexus account, if you aren't logged in already. Log in and authorize Wabbajack on Nexus, and the installation will proceed. Wabbajack will now install the modlist; this will take a while, so be patient. When Wabbajack is finished, it should say “Installation Complete”.
 
 
-
-
-IMPORTANT 
+PERFORMANCE & GRAPHIC CONFIGURATION
 --------------------------------------------
 
-With the changes in 0.83.0.2, chances are high that the frequent resolution issues are a thing of the past. But I'm leaving this here for the time being, in case users run into any issues with resolution.
+Please note: this part is taken directly from JaySerpa's GtS Changelogs.
+
+By default, GTS V97 is capped at 120 FPS, uses FSR upscaling and has Frame Generation disabled. These options have been selected because they work for everybody, without you having to do anything. However, you can configure a few things for your specific case:
+
+Upscaling Method: If you have an NVIDIA GPU, I recommend changing the upscaling method from FSR to DLSS. The image is a lot more stable and shows fewer artifacts.
+This can be done by opening the Community Shaders menu (by default it’s under the END key) and going into the Upscaling Tab.
+
+Frame Generation: FG is DISABLED by default. Mostly because there's a bug with Skyrim Souls causing certain items to show up semi-transparent in the inventory view and because not everyone can make use of it. If you already have 60 or more FPS, you have a monitor that supports it, and you want more frames, you can enable Frame Generation.
+This option is also enabled in the Upscaling tab of CS. To access the menu, press the END key once inside the game.
+
+Light Sources: Additional light sources from the mod  "CS Light" have been enabled. This will make the game look better, but might have an impact on performance. You can reinstall this mod and unselect the “Common Lights” sources to get the same configuration we had in previous versions.
+
+Faster HDT-SMP: This uses the AVX instruction, to make it compatible with more CPUs. If you have a somewhat recent PC (made in the last 10 years…) chances are your CPU supports AVX2. If that’s the case, you can reinstall this mod and select AVX2 for better performance.
+
+
+RESOLUTION ISSUES
+--------------------------------------------
+
+Please note: this is OLD Info, GtS now uses Auto Resolution, so most users shouldn't experience any issues with wrong resolutions.
+I'm leaving this here for the time being, in case users run into any issues with resolution, they can try the following.
+
+With the changes in 0.83.0.2, chances are high that the frequent resolution issues are a thing of the past. 
 
 The following is a workaround to prevent RESOLUTION ISSUES, but it's best you do it anyway, even if you don't have such issues.
 
@@ -137,7 +165,6 @@ The following is a workaround to prevent RESOLUTION ISSUES, but it's best you do
 - Correct them if they are wrong.
 - HIT "SAVE" AT THE BOTTOM OF THE EDITOR - REGARDLESS IF YOU CHANGED ANYTHING OR NOT. ALWAYS HIT SAVE.
 
-
 This should fix the issue for most if not all users. 
 
 If still have issues after that step, then they may be related to your Windows scaling settings. 
@@ -145,6 +172,8 @@ See this Reddit thread:
 https://www.reddit.com/r/skyrimmods/comments/xi2yza/skyrim_using_windows_dpi_scaling_how_to_fix/
 
 If you're on a high resolution monitor (5k, 4k) but intend to play Skyrim at a lower resolution: to deal with that lower your Windows Resolution accordingly before starting Skyrim. It's a minor inconvience, but the the best solution that I found until now. GtS includes tweaking to make SSE Display Settings and Frame Generation work together. However, this leads to the INI setting Fullscreen=1, which you may be used to, to become nonfunctional. This setting is not compatible with Frame Generation.
+
+If you're on a wide or ultra-wide monitor, you'll have to install some additional fixes. See here: https://gatetosovngarde.wiki.gg/wiki/Wide_and_Ultrawide
 
 
 STARTING Gate to Sovngarde
@@ -165,10 +194,10 @@ Whenever you launch Skyrim from Mod Organizer, this message will pop up:
 
 "The application must run to completion because its output is required."
 
-THIS IS NOT AN ERROR, DO NOT PRESS “UNLOCK”. Simply wait a bit, and Skyrim will open normally.
+THIS IS NOT AN ERROR, DO NOT PRESS “UNLOCK”. Simply wait a bit, and Skyrim will open.
 
 DO NOT USE THE SORT BUTTON ON TOP OF THE PLUGINS LIST. It will not work. I took measures to prevent accidentally using it.
-DO NOT DRAG & DROP MODS OR PLUGINS TO OTHER POSITIONS.
+DO NOT DRAG & DROP MODS OR PLUGINS TO OTHER POSITIONS. IT WILL BREAK THE LIST.
 
 
 Mod Configuration
@@ -215,6 +244,31 @@ Very few mod notes you may need to read may be tagged with *** IMPORTANT ***. Yo
 
 If there are no search results with notes tagged "*** IMPORTANT ***", then they are no such mods in this GtS Version!
 
+Permissions
+--------------------------------------------
+
+If you want to fork this modlist: be sure to get JaySerpa's permission first!
+
+Concerning me, permissions are open according to what Wabbajack says under https://wiki.wabbajack.org/policies_and_license/Policies%20and%20License.html and https://wiki.wabbajack.org/wabbajack_cdn_and_gallery_access/Criteria%20for%20'Featured%20Mod%20List'%20status.html.
+
+This means that you are allowed to:
+
+- Fork this modlist
+- Modify it for personal or public use
+- Recompile and redistribute your own version
+
+under the following conditions:
+
+- Your fork must use a different name and must not imply my or JaySerpa's endorsement, both unless given explicit permission to do so.
+- Please ensure that any published fork represents an genuinely distinct project with meaningful changes. Minor or cosmetic changes alone (e.g., a few configuration edits; or only two mods on top) are not sufficient to present the list as a new work.
+- Mere republishing without changes is not permitted. Uploading my original files anywhere is not allowed.
+- You are responsible for maintaining and supporting your own version.
+- All original mod authors’ permissions and distribution rights must be respected.
+- These permissions apply to the modlist only - not to the third-party mods included.
+
+Please do credit me and keep it very clear that I can't give any support to users of modlists that use mine as a base. If you have any questions about my conversion, how I did things etc., feel free to ask, I'm happy to answer them. But please understand that I sometimes may need time to answer, especially when I'm focused on other things like a GtS update etc.
+
+
 Credits
 --------------------------------------------
 
@@ -223,13 +277,3 @@ All authors of the included mods for their fantastic work. IMPORTANT: With this 
 JaySerpa for terrific mods and for creating Gate to Sovngarde. This is just a humble conversion. It's still 90% JaySerpa's work.
 
 All the users on JaySerpa's Discord that helped betatesting this conversion. You provided great feedback and helped me to find solutions for the issues this modlist had in the beginning.
-
-Donating
---------------------------------------------
-
-NEW: If you want to, you can tip me a coffee under ko-fi.com/flimsymods. I'd be very happy if you do, but please consider that this is still 90% the work of JaySerpa and many more fantastic mod authors. So please consider donating them first, or as well! Thank you :-)
-
-
-
-
-
