@@ -18,21 +18,21 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack_1080p.webp",
       "readme": "https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Gate to Sovngarde Anniversary Edition Upgrade.wabbajack_eef2c388-18a1-4b84-8238-4e8cd4a8e710",
+      "download": "https://authored-files.wabbajack.org/Gate to Sovngarde Anniversary Edition Upgrade.wabbajack_d02f0ee0-78c6-4865-a963-4949a98b4965",
       "machineURL": "GateToSovngarde_WJ_AE",
       "discordURL": "https://discord.gg/jayserpa"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      	"Hash":"bvQ5+vhczA=",
-	"Size":25142683,
-	"NumberOfArchives":2041,
-	"SizeOfArchives":78019555597,
-	"NumberOfInstalledFiles":216443,
-	"SizeOfInstalledFiles":124328545651,
-	"TotalSize":202348101248
+      	"Hash":"OtTsaEVmbwE=",
+	"Size":25959768,
+	"NumberOfArchives":2145,
+	"SizeOfArchives":83563593553,
+	"NumberOfInstalledFiles":225971,
+	"SizeOfInstalledFiles":133082096038,
+	"TotalSize":216645689591
     },
-    "version": "0.96.0"
+    "version": "0.101.0"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -53,21 +53,21 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack_1080p.webp",
       "readme": "https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Gate to Sovngarde Non-AE Version.wabbajack_e16e5a05-f8e1-4723-ade3-88e90a22ce44",
+      "download": "https://authored-files.wabbajack.org/Gate to Sovngarde Non-AE Version.wabbajack_b9e3af59-51c8-45a3-bb08-a53f23da792f",
       "machineURL": "GateToSovngarde_WJ_NonAE",
       "discordURL": "https://discord.gg/jayserpa"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-	"Hash":"wH7UAQhJ4EI=",
-	"Size":24712082,
-	"NumberOfArchives":1799,
-	"SizeOfArchives":72703071301,
-	"NumberOfInstalledFiles":214880,
-	"SizeOfInstalledFiles":118610025989,
-	"TotalSize":191313097290
+	"Hash":"N5PCCdsXG5Q=",
+	"Size":25435425,
+	"NumberOfArchives":1895,
+	"SizeOfArchives":78206527419,
+	"NumberOfInstalledFiles":224163,
+	"SizeOfInstalledFiles":127297154212,
+	"TotalSize":205503681631
     },
-    "version": "0.96.0"
+    "version": "0.101.0"
   }
 ]
 
