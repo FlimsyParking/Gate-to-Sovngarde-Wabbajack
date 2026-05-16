@@ -8,7 +8,7 @@ A Skyrim SE Mod Collection by JaySerpa
 
 converted to Wabbajack by Flimsy
 
-Version 0.101.0.0 = V101 of the Collection
+Version 0.104.0.0 = V104 of the Collection
 
 HOMEPAGES
 --------------------------------------------
@@ -45,6 +45,11 @@ DONATIONS
 --------------------------------------------
 
 NEW: If you want to, you can tip me a coffee under ko-fi.com/flimsymods. I'd be very happy if you do, it would really mean a lot to me! But please consider that this is still 90% the work of JaySerpa and many more fantastic mod authors. So please consider donating them first, or as well! Thank you :-)
+
+HELPFUL LINKS
+--------------------------------------------
+
+https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html
 
 
 
@@ -204,6 +209,8 @@ Mod Configuration
 --------------------------------------------
 
 All of the Mod Configuration Menus have been pre-configured to the recommended settings. The only thing you need to do when you start a new game is play.
+
+About updating mods: Several mods have older versions installed while a newer version might be available on Nexus. THIS IS INTENDED! THERE IS NO NEED TO UPDATE THESE MODS! Doing so will break the list.
 
 Updating
 --------------------------------------------
