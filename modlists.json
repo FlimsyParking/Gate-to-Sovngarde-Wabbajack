@@ -18,21 +18,21 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack_1080p.webp",
       "readme": "https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Gate to Sovngarde Anniversary Edition Upgrade.wabbajack_9d2ffc35-3560-49eb-92c2-e4480dc31e97",
+      "download": "https://build.wabbajack.org/authored_files/download/Gate%20to%20Sovngarde%20Anniversary%20Edition%20Upgrade.wabbajack_6c00f2b1-74d0-428f-9409-d97c19b12f22",
       "machineURL": "GateToSovngarde_WJ_AE",
       "discordURL": "https://discord.gg/jayserpa"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      	"Hash":"llsiGMlCev0=",
-		"Size":26156027,
-		"NumberOfArchives":2153,
-		"SizeOfArchives":83552159750,
-		"NumberOfInstalledFiles":230452,
-		"SizeOfInstalledFiles":133280831219,
-		"TotalSize":216832990969
+	"Hash":"drKJWYO6PCw=",
+	"Size":17786961,
+	"NumberOfArchives":2148,
+	"SizeOfArchives":83725628031,
+	"NumberOfInstalledFiles":237549,
+	"SizeOfInstalledFiles":133114323022,
+	"TotalSize":216839951053
     },
-    "version": "0.104.0"
+    "version": "0.115.0"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -53,28 +53,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack_1080p.webp",
       "readme": "https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Gate to Sovngarde Non-AE Version.wabbajack_c60337f0-bde1-4721-af78-81fe29311a9b",
+      "download": "https://build.wabbajack.org/authored_files/download/Gate%20to%20Sovngarde%20Non-AE%20Version.wabbajack_3f408b6e-b8b0-4126-8149-69ba7673887d",
       "machineURL": "GateToSovngarde_WJ_NonAE",
       "discordURL": "https://discord.gg/jayserpa"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-	"Hash":"8mJjtckOlco=",
-	"Size":25628316,
-	"NumberOfArchives":1903,
-	"SizeOfArchives":78195049735,
-	"NumberOfInstalledFiles":228639,
-	"SizeOfInstalledFiles":127495824866,
-	"TotalSize":205690874601
+	"Hash":"qkMoz3mQcG8=",
+	"Size":17232297,
+	"NumberOfArchives":1896,
+	"SizeOfArchives":78337613012,
+	"NumberOfInstalledFiles":235670,
+	"SizeOfInstalledFiles":127282121101,
+	"TotalSize":205619734113
     },
-    "version": "0.104.0"
+    "version": "0.115.0"
   }
 ]
-
-
-
-
-
-
-
-
