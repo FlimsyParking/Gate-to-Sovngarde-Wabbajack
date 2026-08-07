@@ -18,7 +18,7 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack_1080p.webp",
       "readme": "https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Gate%20to%20Sovngarde%20Anniversary%20Edition%20Upgrade.wabbajack_6c00f2b1-74d0-428f-9409-d97c19b12f22",
+      "download": "https://authored-files.wabbajack.org/Gate to Sovngarde Anniversary Edition Upgrade.wabbajack_6c00f2b1-74d0-428f-9409-d97c19b12f22",
       "machineURL": "GateToSovngarde_WJ_AE",
       "discordURL": "https://discord.gg/jayserpa"
     },
@@ -53,78 +53,7 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack_1080p.webp",
       "readme": "https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Gate%20to%20Sovngarde%20Non-AE%20Version.wabbajack_3f408b6e-b8b0-4126-8149-69ba7673887d",
-      "machineURL": "GateToSovngarde_WJ_NonAE",
-      "discordURL": "https://discord.gg/jayserpa"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-	"Hash":"qkMoz3mQcG8=",
-	"Size":17232297,
-	"NumberOfArchives":1896,
-	"SizeOfArchives":78337613012,
-	"NumberOfInstalledFiles":235670,
-	"SizeOfInstalledFiles":127282121101,
-	"TotalSize":205619734113
-    },
-    "version": "0.115.0"
-  }
-][
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Gate to Sovngarde AE Version",
-    "description": "Gate to Sovngarde is a love letter to the Skyrim modding community, and I hope you enjoy it as much as I do. \r\n\r\n-JaySerpa \r\n\r\nIMPORTANT: This modlist comes in 2 stand-alone Versions: Anniversary Edition Version and Non-AE Version. Be sure to download the right one! \r\n\r\nAnniversary Edition (AE) refers to the Anniversary Edition Upgrade DLC (https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/). Choose one version or the other depending if you have this DLC or not.",
-    "author": "JaySerpa - converted to Wabbajack by flimsy",
-    "maintainers": [
-      "github/FlimsyParking"
-    ],
-    "game": "skyrimspecialedition",
-    "tags": [
-      "SFW"
-    ],
-    "nsfw": false,
-    "image_contains_title": false,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack_1080p.webp",
-      "readme": "https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/blob/main/README.md",
-      "download": "https://build.wabbajack.org/authored_files/download/Gate%20to%20Sovngarde%20Anniversary%20Edition%20Upgrade.wabbajack_6c00f2b1-74d0-428f-9409-d97c19b12f22",
-      "machineURL": "GateToSovngarde_WJ_AE",
-      "discordURL": "https://discord.gg/jayserpa"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-	"Hash":"drKJWYO6PCw=",
-	"Size":17786961,
-	"NumberOfArchives":2148,
-	"SizeOfArchives":83725628031,
-	"NumberOfInstalledFiles":237549,
-	"SizeOfInstalledFiles":133114323022,
-	"TotalSize":216839951053
-    },
-    "version": "0.115.0"
-  },
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Gate to Sovngarde Non-AE Version",
-    "description": "Gate to Sovngarde is a love letter to the Skyrim modding community, and I hope you enjoy it as much as I do. \r\n\r\n-JaySerpa \r\n\r\nIMPORTANT: This modlist comes in 2 stand-alone Versions: Anniversary Edition Version and Non-AE Version. Be sure to download the right one! \r\n\r\nAnniversary Edition (AE) refers to the Anniversary Edition Upgrade DLC (https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/). Choose one version or the other depending if you have this DLC or not.",
-    "author": "JaySerpa - converted to Wabbajack by flimsy",
-    "maintainers": [
-      "github/FlimsyParking"
-    ],
-    "game": "skyrimspecialedition",
-    "tags": [
-      "SFW"
-    ],
-    "nsfw": false,
-    "image_contains_title": false,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack_1080p.webp",
-      "readme": "https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/blob/main/README.md",
-      "download": "https://build.wabbajack.org/authored_files/download/Gate%20to%20Sovngarde%20Non-AE%20Version.wabbajack_3f408b6e-b8b0-4126-8149-69ba7673887d",
+      "download": "https://authored-files.wabbajack.org/Gate to Sovngarde Non-AE Version.wabbajack_3f408b6e-b8b0-4126-8149-69ba7673887d",
       "machineURL": "GateToSovngarde_WJ_NonAE",
       "discordURL": "https://discord.gg/jayserpa"
     },
