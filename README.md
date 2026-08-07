@@ -8,7 +8,7 @@ A Skyrim SE Mod Collection by JaySerpa
 
 converted to Wabbajack by Flimsy
 
-Version 0.104.0.0 = V104 of the Collection
+Version 0.115.0.0 = V115 of the Collection
 
 HOMEPAGES
 --------------------------------------------
@@ -140,7 +140,7 @@ PERFORMANCE & GRAPHIC CONFIGURATION
 
 Please note: this part is taken directly from JaySerpa's GtS Changelogs.
 
-By default, GTS V97 is capped at 120 FPS, uses FSR upscaling and has Frame Generation disabled. These options have been selected because they work for everybody, without you having to do anything. However, you can configure a few things for your specific case:
+By default, GTS is capped at 120 FPS, uses FSR upscaling and has Frame Generation disabled. These options have been selected because they work for everybody, without you having to do anything. However, you can configure a few things for your specific case:
 
 Upscaling Method: If you have an NVIDIA GPU, I recommend changing the upscaling method from FSR to DLSS. The image is a lot more stable and shows fewer artifacts.
 This can be done by opening the Community Shaders menu (by default it’s under the END key) and going into the Upscaling Tab.
@@ -228,7 +228,9 @@ If you attempt to update a modified installation of GtS, Wabbajack will delete a
 
 This means that any additional mods you have installed on top of GtS will be deleted. To prevent this, you can add the prefix [NoDelete] to the names of the mods you want to keep and Wabbajack will ensure they are ignored during updates.
 
-DO NOT USE THE SORT BUTTON ON TOP OF THE PLUGINS LIST. It will not work. I took measures to prevent accidentally using it. It uses a deprecated version of LOOT anyway. If you want to have LOOT functionality, you'll need to install an up-to-date LOOT as described in ADHDecent's excellent tutorial: https://www.youtube.com/watch?v=7rd1L_WXHmI&list=PLhvuRv3vONb5Uwb6rAy6y1r_1WB4Pe151&index=14&pp=iAQB
+DO NOT USE THE SORT BUTTON ON TOP OF THE PLUGINS LIST. It will not work. I took measures to prevent accidentally using it. It uses a deprecated version of LOOT anyway. 
+
+In general, modlists like GtS are just too big and complex to work with LOOT. It would need around 5 or 6 pages of custom rules too make sure that sorting doesn't break GtS. So if you add mods, you need to manually place them in the Loadorder after checking for conflicts with SSEdit. If you absolutely have to have LOOT, there's some great guides out there how to install it, e.g. from ADHDecent. But: you have been warned...
  
 DO NOT DRAG & DROP MODS OR PLUGINS TO OTHER POSITIONS (unless you know what you are doing).
 
@@ -278,6 +280,8 @@ Please do credit me and keep it very clear that I can't give any support to user
 
 Credits
 --------------------------------------------
+
+HUGE THANKS to all donators! It really means a lot to me. You're awesome!!!
 
 All authors of the included mods for their fantastic work. IMPORTANT: With this MO2 Installation, it's very easy to ENDORSE all the mods and their creators on Nexus, please do so! 
 
